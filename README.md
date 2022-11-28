@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @khajaafrid
+- 👋 Hi, I’m @Khaja_Afrid
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I'm looking forward to working together 
+- 📫 To reach me just ping ur num below
+- |No:-           |
+  | ------------- |
 
 <!---
 khajaafrid/khajaafrid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
